@@ -1,0 +1,19 @@
+{
+  "changelogDate": "20230318233631",
+  "clientRootFolder": "invoicedb",
+  "databaseType": "mongodb",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "code",
+      "fieldType": "String"
+    }
+  ],
+  "microserviceName": "invoicedb",
+  "microservicePath": "../invoiceManager",
+  "name": "Invoice",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}

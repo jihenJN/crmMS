@@ -1,0 +1,23 @@
+{
+  "changelogDate": "20230318234314",
+  "clientRootFolder": "saledb",
+  "databaseType": "mongodb",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "idinvoice",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "qty",
+      "fieldType": "Integer"
+    }
+  ],
+  "microserviceName": "saledb",
+  "microservicePath": "../saleManager",
+  "name": "Sale",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}
